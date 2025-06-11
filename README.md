@@ -1,6 +1,12 @@
 # Number Guessing Game
 
-Welcome to the Number Guessing Game! This is a CLI-based game where the user has to guess a number between 1 and 100. The user has a limited number of chances based on the difficulty level to guess the correct number.
+Welcome to the Number Guessing Game! The game where you guess the number from 1 to 100. There are 3 special level to the game below:
+  
+Easy: 10 chances
+  
+Medium: 5 chances
+  
+Hard: 3 chances
 
 ## Project Structure
 
