@@ -7,7 +7,3 @@ Easy: 10 chances
 Medium: 5 chances
   
 Hard: 3 chances
-
-## Project Structure
-
-- `guessing_number.py`: Contains the main game logic.
